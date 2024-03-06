@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\authorcontroller;-
+use App\Http\Controllers\authorcontroller;
 use App\Http\Controllers\BookController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\publishercontroller;
